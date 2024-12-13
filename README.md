@@ -9,7 +9,6 @@ The Real-Time Smart SURAKSHA system is an innovative safety solution designed to
 4. Technology Stack
 5. Future Scope
 6. Setup and Installation
-7. How to Use
 
 ## Problem Statement
 Vulnerability of Children: Lack of effective monitoring tools for children's safety.
